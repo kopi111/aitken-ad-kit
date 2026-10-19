@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-15",
+  "project": "summer-splash",
+  "angle": "before/after in words: text card \"before\" (only a phone number, missed calls) → the real site we built for a pool company \"after\"",
+  "title": "Summer Splash before/after ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Miss the call,<br><g>miss the job?</g><small>Before and after a proper website</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 3.0,
+      "head": "<g>Before:</g><br>\"Call me for prices\"<small>Busy on a job. Phone ringing out.</small>"
+    },
+    {
+      "clip": "summer-splash/home-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.0,
+      "enter": "rise",
+      "head": "<g>After:</g> a site that works for you"
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Every service <g>explained</g>",
+      "pills": [
+        {"at": 1.2, "text": "Answers before they ask", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 1.5,
+      "dur": 5.0,
+      "head": "Quote requests <g>while you work</g>",
+      "pills": [
+        {"at": 3.0, "text": "Free-quote form", "icon": "$", "y": 1300}
+      ]
+    }
+  ],
+  "end": {"dur": 4.0, "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"},
+  "short": [0, 4],
+  "caption": "Before: \"call me for prices\" and a phone that rings out while you're on a job 📵\nAfter: a website that shows every service and takes quote requests while you work.\n\nThis is a site we built for a pool company, mobile-first with a free-quote form.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}

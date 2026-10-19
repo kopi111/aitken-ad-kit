@@ -1,0 +1,87 @@
+{
+  "id": "example-aitken-shipping",
+  "project": "aitken-shipping",
+  "angle": "problem hook: orders on WhatsApp -> website that quotes, books, tracks",
+  "title": "Aitken Shipping courier website ad",
+  "segments": [
+    {
+      "clip": "aitken-shipping/home-hero-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.0,
+      "enter": "rise",
+      "head": "Still taking delivery orders on <g>WhatsApp?</g>"
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 7.0,
+      "head": "Customers get a price <g>instantly</g>",
+      "pills": [
+        {
+          "at": 5.8,
+          "text": "Itemised quote in seconds",
+          "icon": "$",
+          "y": 1300
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 4.6,
+      "head": "They track the parcel <g>themselves</g>",
+      "pills": [
+        {
+          "at": 3.2,
+          "text": "Live journey log",
+          "icon": "➜",
+          "y": 1300
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 6.5,
+      "head": "Book online, <g>waybill issued</g>",
+      "pills": [
+        {
+          "at": 5.0,
+          "text": "Tracking number on the spot",
+          "icon": "#",
+          "y": 1350
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/home-hero-desktop",
+      "device": "laptop",
+      "from": 0.5,
+      "dur": 3.0,
+      "head": "Sharp on <g>every screen</g>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [
+    0,
+    1
+  ],
+  "caption": "Still taking delivery orders in the DMs? 📦\nWe built this courier website: customers get an instant price, book online, get a waybill number and track the parcel themselves.\n\nWebsites · Web apps · Mobile apps\nComment WEBSITE and we'll DM you 👇",
+  "hashtags": [
+    "#jamaica",
+    "#jamaicabusiness",
+    "#courierjamaica",
+    "#webdesignjamaica",
+    "#smallbusinessjamaica",
+    "#websitedesign",
+    "#caribbeanbusiness",
+    "#aitkentechnology"
+  ]
+}

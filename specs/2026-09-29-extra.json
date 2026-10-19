@@ -1,0 +1,85 @@
+{
+  "id": "2026-09-29-extra",
+  "project": "aitken-shipping",
+  "angle": "3 signs your business needs a website: 'how much?' questions, 'where's my parcel?' calls, orders lost in the DMs",
+  "title": "Aitken Shipping 3 signs ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 3.0,
+      "head": "3 signs your business<br>needs a <g>website</g><small>Number 3 costs you the most</small>"
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 7.5,
+      "enter": "rise",
+      "head": "1. Everybody asks <g>\"how much?\"</g>",
+      "pills": [
+        {
+          "at": 5.7,
+          "text": "Price shows up by itself",
+          "icon": "$",
+          "y": 1300
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 5.0,
+      "head": "2. All day: <g>\"where's my parcel?\"</g>",
+      "pills": [
+        {
+          "at": 2.5,
+          "text": "They track it themselves",
+          "icon": "➜",
+          "y": 1300
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 6.9,
+      "head": "3. Orders get <g>lost in the DMs</g>",
+      "pills": [
+        {
+          "at": 5.2,
+          "text": "Booked online, waybill issued",
+          "icon": "#",
+          "y": 1350
+        }
+      ]
+    },
+    {
+      "clip": "aitken-shipping/home-hero-desktop",
+      "device": "laptop",
+      "from": 0.5,
+      "dur": 3.5,
+      "head": "Fixes all three, <g>on every screen</g>"
+    }
+  ],
+  "end": {
+    "dur": 4.5,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [
+    0,
+    3
+  ],
+  "caption": "3 signs your business needs a website 👇\n1. Everybody asks \"how much?\"\n2. You answer \"where's my parcel?\" all day\n3. Orders get lost in the DMs\n\nHere's a courier website we built to fix all three: instant prices, self-tracking, and online booking with a waybill number, on phone or laptop.\n\nWebsites · Web apps · Mobile apps\nComment WEBSITE and we'll DM you 👇",
+  "hashtags": [
+    "#jamaica",
+    "#jamaicabusiness",
+    "#courierjamaica",
+    "#webdesignjamaica",
+    "#smallbusinessjamaica",
+    "#websitedesign",
+    "#caribbeanbusiness",
+    "#aitkentechnology"
+  ]
+}

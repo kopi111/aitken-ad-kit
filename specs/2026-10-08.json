@@ -1,0 +1,63 @@
+{
+  "id": "2026-10-08",
+  "project": "money-path",
+  "angle": "behind-the-build facts: an app we built that works with no internet, PIN-locked, data encrypted on the phone",
+  "title": "Money Path no-signal behind-the-build ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Signal drop?<br>App <g>still work</g><small>Here's one we built that does</small>"
+    },
+    {
+      "clip": "money-path/lock-unlock",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "enter": "rise",
+      "head": "Opens with a <g>PIN</g>",
+      "pills": [
+        {"at": 1.2, "text": "Fingerprint optional", "icon": "●", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.5,
+      "head": "Works with <g>no internet</g>",
+      "pills": [
+        {"at": 1.5, "text": "Nothing leaves the phone", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.5,
+      "head": "Log it <g>offline</g>, see it instantly",
+      "pills": [
+        {"at": 4.2, "text": "Limit alert, right away", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-static",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.3,
+      "dim": true,
+      "head": "Data <g>encrypted</g> on the phone",
+      "pills": [
+        {"at": 0.3, "text": "Encrypted database", "icon": "#", "y": 1000},
+        {"at": 0.9, "text": "No server needed", "icon": "✓", "y": 1200}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an app idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 2],
+  "caption": "Signal drop? This app keeps working 📱\n\nMoney Path is a budgeting app we built:\n🔒 Opens with a PIN (fingerprint optional)\n📶 Works with no internet, nothing leaves the phone\n🔐 Database encrypted on the phone\n\nWebsites · Web apps · Mobile apps\nGot an app idea? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

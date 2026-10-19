@@ -1,0 +1,55 @@
+{
+  "id": "2026-09-29",
+  "project": "summer-splash",
+  "angle": "\"what a customer sees\" walkthrough: land on the site, see services, read reviews, request a quote",
+  "title": "Summer Splash customer walkthrough ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "What your customers <g>see first</g><small>A site we built for a pool company</small>"
+    },
+    {
+      "clip": "summer-splash/home-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.5,
+      "enter": "rise",
+      "head": "Who you are, <g>in one look</g>"
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 4.0,
+      "head": "Every service, <g>clearly laid out</g>",
+      "pills": [
+        {"at": 1.5, "text": "Photos for each service", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/testimonials-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "head": "Reviews that <g>build trust</g>",
+      "pills": [
+        {"at": 1.2, "text": "Star reviews on the page", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 1.0,
+      "dur": 6.4,
+      "head": "Then they <g>ask for a quote</g>",
+      "pills": [
+        {"at": 4.5, "text": "Free-quote form, any hour", "icon": "$", "y": 1300}
+      ]
+    }
+  ],
+  "end": {"dur": 4.0, "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"},
+  "short": [0, 4],
+  "caption": "What does a customer see when they find your business online? 👀\nHere's a website we built for a pool company: who they are at a glance, every service laid out, real reviews, and a free-quote form that works on any phone.\n\nWebsites · Web apps · Mobile apps\nComment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}

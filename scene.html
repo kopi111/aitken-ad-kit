@@ -1,0 +1,128 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800;900&family=Open+Sans:wght@500;600;700&display=block" rel="stylesheet">
+<style>
+:root{--ink:#070B16;--navy:#0E1A33;--cyan:#22D3EE;--violet:#8B5CF6;}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--ink)}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;
+  background:radial-gradient(900px 700px at 85% 18%,rgba(139,92,246,.30),transparent 60%),
+             radial-gradient(900px 800px at 10% 85%,rgba(34,211,238,.22),transparent 60%),var(--ink);
+  font-family:'Open Sans',sans-serif;color:#fff}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:60px 60px}
+g,.g{background:linear-gradient(90deg,var(--cyan),var(--violet));-webkit-background-clip:text;color:transparent}
+#brand{position:absolute;left:70px;top:215px;font:800 26px Poppins;letter-spacing:.18em;color:rgba(255,255,255,.75)}
+#head{position:absolute;left:70px;top:258px;width:870px;font:900 78px/1.04 Poppins;letter-spacing:-.01em}
+#phone{position:absolute;left:50%;top:480px;width:612px;height:1344px;margin-left:-306px;border-radius:78px;
+  background:linear-gradient(145deg,#2a3350,#0b1122 40%,#1b2340);padding:14px;
+  box-shadow:0 60px 120px rgba(0,0,0,.6),0 0 0 2px rgba(255,255,255,.08),0 0 90px rgba(139,92,246,.25);transform-origin:50% 0}
+#pscreen{position:relative;width:584px;height:1316px;border-radius:64px;overflow:hidden;background:#fff}
+#pscreen img{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover;object-position:top}
+#pscreen.web img{top:52px;height:1264px}
+#sbar{display:none;position:absolute;left:0;right:0;top:0;height:52px;padding:14px 44px 0;font:600 22px 'Open Sans';color:#111;justify-content:space-between}
+#pscreen.web #sbar{display:flex}
+#notch{position:absolute;left:50%;top:18px;width:30px;height:30px;margin-left:-15px;border-radius:50%;background:#070B16;z-index:3}
+#laptop{position:absolute;left:50%;top:640px;width:1000px;margin-left:-500px;transform-origin:50% 0}
+#lid{background:linear-gradient(145deg,#2a3350,#0b1122);border-radius:28px 28px 0 0;padding:22px 22px 26px;box-shadow:0 60px 120px rgba(0,0,0,.6),0 0 90px rgba(139,92,246,.25)}
+#lscreen{position:relative;width:956px;height:598px;overflow:hidden;border-radius:6px;background:#fff}
+#lscreen img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top}
+#base{height:34px;margin:0 -60px;border-radius:0 0 30px 30px;background:linear-gradient(#3a4466,#151c33)}
+#textcard{position:absolute;left:70px;right:140px;top:560px;font:900 104px/1.02 Poppins;letter-spacing:-.015em}
+#textcard small{display:block;font:600 40px/1.35 'Open Sans';color:rgba(255,255,255,.8);margin-top:40px;letter-spacing:0}
+.pill{position:absolute;display:flex;align-items:center;gap:16px;padding:22px 30px;border-radius:26px;
+  background:rgba(14,26,51,.94);border:2px solid rgba(34,211,238,.55);font:700 34px Poppins;white-space:nowrap;
+  box-shadow:0 24px 50px rgba(0,0,0,.5);transform-origin:0 50%}
+.pill .dot{width:46px;height:46px;border-radius:14px;background:linear-gradient(135deg,var(--cyan),var(--violet));display:grid;place-items:center;font-size:26px;color:var(--ink);font-weight:900}
+#end{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px 260px;opacity:0}
+#end .mark{width:170px;height:170px;border-radius:44px;background:linear-gradient(135deg,var(--cyan),var(--violet));display:grid;place-items:center;font:900 96px Poppins;color:var(--ink);box-shadow:0 0 120px rgba(139,92,246,.55)}
+#end h1{font:900 92px/1 Poppins;margin-top:50px}
+#end .handle{font:700 42px Poppins;margin-top:18px}
+#end .what{font:600 38px 'Open Sans';margin-top:46px;color:rgba(255,255,255,.85)}
+#end .cta{margin-top:60px;padding:30px 46px;border-radius:30px;background:#fff;color:var(--ink);font:800 44px/1.25 Poppins}
+#end .cta g{background:linear-gradient(90deg,#0891b2,#7c3aed);-webkit-background-clip:text;color:transparent}
+#flash{position:absolute;inset:0;background:linear-gradient(135deg,var(--cyan),var(--violet));opacity:0;pointer-events:none}
+</style></head><body>
+<div id="stage"><div class="grid"></div>
+  <div id="brand">AITKEN <span class="g">TECHNOLOGY</span></div>
+  <div id="head"></div>
+  <div id="textcard"></div>
+  <div id="phone"><div id="pscreen"><div id="notch"></div><div id="sbar"><span>9:41</span><span>●●●● 5G ▮</span></div><img id="pimg"></div></div>
+  <div id="laptop"><div id="lid"><div id="lscreen"><img id="limg"></div></div><div id="base"></div></div>
+  <div id="pills"></div>
+  <div id="end">
+    <div class="mark">A</div>
+    <h1>Aitken Technology</h1>
+    <div class="handle g">@aitkentechnology</div>
+    <div class="what">Websites · Web apps · Mobile apps</div>
+    <div class="cta" id="cta"></div>
+  </div>
+  <div id="flash"></div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const ease=x=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const back=x=>{x=clamp(x);const c=1.6;return 1+(c+1)*Math.pow(x-1,3)+c*Math.pow(x-1,2)};
+let SPEC, TIMELINE, lastSeg=-1;
+
+window.setup=function(spec){
+  SPEC=spec; let t=0;
+  TIMELINE=spec.segments.map(s=>{const seg={...s,start:t};t+=s.dur;return seg;});
+  SPEC.endStart=t; SPEC.total=t+spec.end.dur;
+  $('cta').innerHTML=spec.end.cta;
+  return SPEC.total;
+};
+
+function frameUrl(seg,lt){
+  const n=Math.min(seg.frames,Math.max(1,Math.floor(((seg.from||0)+lt)*30)+1));
+  return `library/${seg.clip}/f${String(n).padStart(5,'0')}.jpg`;
+}
+async function show(img,url){ if(img.getAttribute('src')!==url){img.src=url;try{await img.decode()}catch(e){}} }
+
+function drawPills(seg,lt){
+  const box=$('pills'); box.innerHTML='';
+  for(const p of seg.pills||[]){
+    if(lt<p.at) continue;
+    const k=(lt-p.at)/0.45, e=document.createElement('div');
+    e.className='pill'; e.style.left='40px'; e.style.top=p.y+'px';
+    e.style.opacity=clamp((lt-p.at)/0.2);
+    e.style.transform=`scale(${0.6+0.4*back(k)}) translateX(${(1-ease(k))*-60}px)`;
+    e.innerHTML=`<span class="dot">${p.icon||'✓'}</span>${p.text}`; box.appendChild(e);
+  }
+}
+
+window.render=async function(t){
+  const inEnd=t>=SPEC.endStart;
+  const si=inEnd?TIMELINE.length-1:TIMELINE.findIndex(s=>t>=s.start&&t<s.start+s.dur);
+  const seg=TIMELINE[si], lt=inEnd?seg.dur:t-seg.start;
+  const isText=seg.kind==='text', device=seg.device||'phone';
+  if(si!==lastSeg){ $('head').innerHTML=isText?'':seg.head||''; $('textcard').innerHTML=isText?seg.head:''; lastSeg=si; }
+  const hk=ease(lt/(si===0?0.5:0.35));
+  for(const el of [$('head'),$('textcard')]){el.style.opacity=hk; el.style.transform=`translateY(${(1-hk)*40}px)`;}
+
+  const phone=$('phone'), laptop=$('laptop');
+  phone.style.display=!isText&&device==='phone'?'block':'none';
+  laptop.style.display=!isText&&device==='laptop'?'block':'none';
+  const active=device==='phone'?phone:laptop;
+  if(!isText){
+    $('pscreen').classList.toggle('web',!!seg.web);
+    await show(device==='phone'?$('pimg'):$('limg'),frameUrl(seg,lt));
+    const baseTop=device==='phone'?480:640;
+    let top=baseTop, scale=1, bright=1;
+    if(seg.enter==='rise'){top=baseTop+(1-ease(lt/0.9))*800;}
+    if(seg.dim){const k=ease(lt/0.6);bright=1-0.55*k;scale=1-0.06*k;}
+    if(si>0&&lt<0.25&&seg.enter!=='rise') scale*=1+0.025*(1-lt/0.25);
+    active.style.top=top+'px'; active.style.transform=`scale(${scale})`; active.style.filter=`brightness(${bright})`;
+  }
+  drawPills(inEnd?{pills:[]}:seg,lt);
+
+  const ek=inEnd?ease((t-SPEC.endStart)/0.6):0;
+  $('end').style.opacity=ek; $('end').style.transform=`scale(${0.94+0.06*ek})`;
+  for(const el of [active,$('head'),$('textcard'),$('brand'),$('pills')]) el.style.opacity=inEnd?1-ek:(el===$('head')||el===$('textcard')?hk:1);
+  const pulse=inEnd?Math.max(0,Math.sin((t-SPEC.endStart-1)*Math.PI*1.2)):0;
+  $('cta').style.transform=`scale(${1+0.03*pulse})`;
+
+  let f=0; for(const x of TIMELINE.slice(1).map(s=>s.start).concat([SPEC.endStart])){const d=t-x;if(d>=0&&d<0.18)f=Math.max(f,0.35*(1-d/0.18));}
+  $('flash').style.opacity=f;
+};
+</script></body></html>
