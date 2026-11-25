@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-06",
+  "project": "summer-splash",
+  "angle": "problem → fix: good work stuck in word of mouth → reviews on the site speak for the business, then services and free-quote form turn that trust into a request",
+  "title": "Summer Splash reviews and word-of-mouth ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Yuh work good.<br><g>But who know?</g><small>Word of mouth only travels so far</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Strangers look you up<br><g>before they call</g><small>What do they find?</small>"
+    },
+    {
+      "clip": "summer-splash/testimonials-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.5,
+      "enter": "rise",
+      "head": "Let happy customers <g>talk for you</g>",
+      "pills": [
+        {"at": 1.2, "text": "Reviews on the page", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Show <g>what you do</g>",
+      "pills": [
+        {"at": 1.2, "text": "Site we built for a pool company", "icon": "✓", "y": 1390}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 1.5,
+      "dur": 4.0,
+      "head": "Make it <g>easy to ask</g>",
+      "pills": [
+        {"at": 1.5, "text": "Free-quote form", "icon": "✓", "y": 1300}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 2],
+  "caption": "Yuh work good. But who know? 🤔\n\nWord of mouth only travels so far. When a stranger looks you up, a website lets your happy customers talk for you, shows what you do and makes it easy to ask for a quote. This is a mobile-first site we built for a pool company.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2026-11-24",
+  "project": "money-path",
+  "angle": "\"3 signs your idea should be an app\": people use it every day (what's left, alerts) → it has to work with no signal (log a spend offline) → it holds private info (PIN lock, encrypted on the phone), shown on Money Path",
+  "title": "Money Path 3 signs your idea should be an app ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "3 signs your idea<br>should be an <g>app</g><small>Number 3 is the one people forget</small>"
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "enter": "rise",
+      "head": "1. People use it <g>every day</g>",
+      "pills": [
+        {"at": 0.8, "text": "What's left, first thing", "icon": "$", "y": 1300},
+        {"at": 1.6, "text": "Alerts before you overspend", "icon": "!", "y": 1480}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 4.0,
+      "head": "2. It must work <g>with no signal</g>",
+      "pills": [
+        {"at": 0.5, "text": "Works with no internet", "icon": "✓", "y": 1300},
+        {"at": 3.0, "text": "Total updates right away", "icon": "$", "y": 1480}
+      ]
+    },
+    {
+      "clip": "money-path/lock-unlock",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.7,
+      "head": "3. It holds <g>private info</g>",
+      "pills": [
+        {"at": 0.6, "text": "PIN lock + fingerprint", "icon": "●", "y": 1300},
+        {"at": 2.0, "text": "Encrypted on the phone", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Tick all 3?<br>That's an <g>app</g><small>Money Path, an Android app we built</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an app idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "3 signs your idea should be an app 📱\n\n1️⃣ People use it every day\n2️⃣ It has to work with no signal\n3️⃣ It holds private info\n\nMoney Path is an Android app we built that ticks all 3: what's left up front, spend alerts, works with no internet, PIN lock and the data encrypted on the phone.\n\nWebsites · Web apps · Mobile apps\nGot an app idea? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#appdevelopment", "#jamaicabusiness", "#mobileapp", "#caribbeanbusiness", "#aitkentechnology"]
+}

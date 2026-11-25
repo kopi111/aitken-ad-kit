@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-10-money-path-full",
+  "project": "money-path",
+  "angle": "full app tour: every recorded screen at full length, unlock to reports",
+  "title": "Money Path full app tour ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "The full tour of<br>an app <g>we built</g><small>Money Path, start to finish</small>"
+    },
+    {
+      "clip": "money-path/lock-unlock",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.6,
+      "enter": "rise",
+      "head": "Locked with <g>your PIN</g>",
+      "pills": [
+        {"at": 1.2, "text": "Fingerprint optional", "icon": "●", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 7.4,
+      "head": "See <g>what's left</g> this month",
+      "pills": [
+        {"at": 1.0, "text": "Overspend alerts", "icon": "!", "y": 1300},
+        {"at": 3.6, "text": "Goals and bills, same screen", "icon": "✓", "y": 1200}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.9,
+      "head": "Add a spend, <g>budget updates</g>",
+      "pills": [
+        {"at": 4.2, "text": "Limit alert, right away", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/goals-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.5,
+      "head": "Goals say <g>on track</g> or behind",
+      "pills": [
+        {"at": 3.2, "text": "Car fund: on track", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/month-view",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.2,
+      "head": "The whole <g>month</g> on one page",
+      "pills": [
+        {"at": 1.0, "text": "Money in, spent, left", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/reports-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.4,
+      "head": "Then <g>compare</g> to last month",
+      "pills": [
+        {"at": 2.2, "text": "Against August", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "No internet?<br><g>Still works.</g><small>Nothing leaves the phone</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Want an app like this?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "The full tour of an app we built 📱\n\nMoney Path, a budgeting app, start to finish:\n🔒 PIN lock, fingerprint optional\n💰 What's left this month, with overspend alerts\n✍️ Add a spend and the budget updates\n🎯 Savings goals marked on track or behind\n📅 The whole month on one page\n📊 Reports compared to last month\n📵 Works with no internet\n\nWebsites · Web apps · Mobile apps\nWant an app like this? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

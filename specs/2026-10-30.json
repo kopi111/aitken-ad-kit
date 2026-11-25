@@ -1,0 +1,56 @@
+{
+  "id": "2026-10-30",
+  "project": "aitken-shipping",
+  "angle": "myth-buster: you don't need a big budget to look established (courier demo site: desktop hero, instant quote, tracking)",
+  "title": "Aitken Shipping myth-buster ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Myth:</g><br>looking legit<br>costs big money<small>Small business? Watch this</small>"
+    },
+    {
+      "clip": "aitken-shipping/home-hero-desktop",
+      "device": "laptop",
+      "from": 0,
+      "dur": 3.5,
+      "enter": "rise",
+      "head": "Looks like a <g>big courier</g>, right?",
+      "pills": [
+        {"at": 1.2, "text": "A courier site we built", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 6.8,
+      "head": "Customers get <g>instant quotes</g>",
+      "pills": [
+        {"at": 5.6, "text": "Itemised price, no calls", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 4.5,
+      "head": "They <g>track parcels</g> themselves",
+      "pills": [
+        {"at": 2.4, "text": "In transit", "icon": "➜", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Truth:</g><br>you can look<br>this sharp too<small>Imagine this for your business</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a small business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Myth: you need a big budget to look established 🙅🏾\n\nThis is a courier website we built to show what's possible: instant quotes, parcel tracking, online booking. Imagine this for your business.\n\nWebsites · Web apps · Mobile apps\nRun a small business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}

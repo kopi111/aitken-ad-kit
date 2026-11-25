@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-08",
+  "project": "money-path",
+  "angle": "before/after in words: sums by hand in a copybook → an app that adds it up, with a turn to the viewer's own copybook",
+  "title": "Money Path copybook before/after ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Still running<br>tings from a<br><g>copybook?</g><small>Watch what it looks like as an app</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Before:</g><br>page after page of sums<small>And you still have to work out what's left</small>"
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.5,
+      "enter": "rise",
+      "head": "<g>After:</g> add a spend, sums done",
+      "pills": [
+        {"at": 4.2, "text": "Warns you at the limit", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.5,
+      "head": "<g>What's left?</g> One look",
+      "pills": [
+        {"at": 0.8, "text": "Limits for each category", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/month-view",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.3,
+      "head": "Month end? <g>Added up</g>",
+      "pills": [
+        {"at": 1.0, "text": "Money in, spent, left", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/reports-scroll",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 3.5,
+      "head": "Last month?<br><g>No flipping back</g>",
+      "pills": [
+        {"at": 1.6, "text": "Compared to last month", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "What's in<br><g>your</g> copybook?<small>We built this one. Yours could be next</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Still on paper?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 2],
+  "caption": "Still running tings from a copybook? 📒\n\nBefore: page after page of sums, and you still have to work out what's left.\n\nAfter: Money Path, a budgeting app we built:\n✍️ Add a spend and the sums are done\n💰 See what's left in one look\n📅 Month end already added up\n📊 Reports compared to last month\n\nWhat's in your copybook?\n\nWebsites · Web apps · Mobile apps\nStill on paper? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2026-11-20",
+  "project": "summer-splash",
+  "angle": "myth-buster: \"a Facebook page is enough\" → a pool company website we built where services, reviews and the free-quote form don't get buried under old posts",
+  "title": "Summer Splash myth-buster ad (Facebook page is enough)",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Myth:</g><br>a Facebook page<br>is enough<small>Where last month's post deh now?</small>"
+    },
+    {
+      "clip": "summer-splash/home-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.0,
+      "enter": "rise",
+      "head": "A site that's <g>all yours</g>",
+      "pills": [
+        {"at": 1.2, "text": "Site we built for a pool company", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Services that <g>don't get buried</g>",
+      "pills": [
+        {"at": 1.0, "text": "No scrolling old posts", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/testimonials-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "head": "Reviews <g>right on the page</g>",
+      "pills": [
+        {"at": 1.0, "text": "Real names, real stars", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 4.0,
+      "head": "Quote requests <g>in one place</g>",
+      "pills": [
+        {"at": 1.5, "text": "Free-quote form", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Truth:</g><br>keep the page.<br>Add a website.<small>Your own home online</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "Myth: a Facebook page is enough 🙅🏾\n\nPosts get buried. A website doesn't. This is a site we built for a pool company:\n✅ Services always one tap away\n⭐ Reviews right on the page\n📝 A free-quote form, so requests land in one place\n\nTruth: keep the page. Add a website.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#caribbeanbusiness", "#aitkentechnology"]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-25",
+  "project": "summer-splash",
+  "angle": "portfolio showcase: the pool company website we built, shown for its look on laptop and phone (hero, services with photos, reviews, free-quote form); 'their work is clean, so is their site'",
+  "title": "Summer Splash portfolio showcase ad (clean pools, clean website)",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Clean pools.<br>Clean <g>website.</g><small>A site we built for a pool company</small>"
+    },
+    {
+      "clip": "summer-splash/home-scroll-desktop",
+      "device": "laptop",
+      "from": 0,
+      "dur": 4.0,
+      "enter": "rise",
+      "head": "Sharp <g>on a laptop</g>",
+      "pills": [
+        {"at": 1.2, "text": "Big photos, clear message", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/home-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.0,
+      "head": "Just as clean <g>on a phone</g>",
+      "pills": [
+        {"at": 1.2, "text": "Built mobile-first", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Every service, <g>with photos</g>",
+      "pills": [
+        {"at": 1.0, "text": "Commercial + residential", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/testimonials-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "head": "Customer reviews <g>up front</g>",
+      "pills": [
+        {"at": 1.0, "text": "Stars and names", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 4.0,
+      "head": "Free quote in <g>a few taps</g>",
+      "pills": [
+        {"at": 1.5, "text": "Free-quote form", "icon": "$", "y": 1300}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Want yours this clean?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "Clean pools. Clean website. 💧\n\nA site we built for a pool company:\n💻 Sharp on a laptop\n📱 Built mobile-first, just as clean on a phone\n🛠️ Every service with photos\n⭐ Customer reviews up front\n📝 Free-quote form in a few taps\n\nWebsites · Web apps · Mobile apps\nWant yours this clean? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#webdesignjamaica", "#jamaicabusiness", "#smallbusinessjamaica", "#caribbeanbusiness", "#aitkentechnology"]
+}

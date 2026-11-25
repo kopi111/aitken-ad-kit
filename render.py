@@ -56,8 +56,8 @@ def validate(spec):
             if pill["at"] >= seg["dur"]:
                 problems.append(f"segment {i}: pill '{pill['text']}' appears after the segment ends")
     total = sum(s["dur"] for s in spec["segments"]) + spec["end"]["dur"]
-    if not 12 <= total <= 32:
-        problems.append(f"total length {total:.1f}s; keep it 12-32s")
+    if not 12 <= total <= 60:
+        problems.append(f"total length {total:.1f}s; keep it 12-60s")
     if problems:
         raise SpecError("\n".join(problems))
     return total

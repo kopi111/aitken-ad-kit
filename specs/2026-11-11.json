@@ -1,0 +1,81 @@
+{
+  "id": "2026-11-11",
+  "project": "aitken-shipping",
+  "angle": "\"what a customer sees\" walkthrough of the demo courier site: land on the route map → pick parishes → itemised price → book → booking confirmed → track",
+  "title": "Aitken Shipping customer walkthrough ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Price it. Book it.<br><g>Track it.</g><small>A customer's trip through a courier site we built</small>"
+    },
+    {
+      "clip": "aitken-shipping/home-hero-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.0,
+      "enter": "rise",
+      "head": "They land on <g>the route map</g>",
+      "pills": [
+        {"at": 1.0, "text": "Demo site we built", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 0.6,
+      "dur": 3.0,
+      "head": "Pick the parishes, <g>get a price</g>",
+      "pills": [
+        {"at": 1.4, "text": "Kingston → Saint James", "icon": "●", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 4.0,
+      "dur": 3.9,
+      "head": "Every charge, <g>itemised</g>",
+      "pills": [
+        {"at": 3.0, "text": "No call to ask the price", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 0.6,
+      "dur": 3.6,
+      "head": "Then they <g>book it</g>",
+      "pills": [
+        {"at": 1.2, "text": "Sender, recipient, weight", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 5.3,
+      "dur": 2.0,
+      "head": "<g>Booking confirmed</g>",
+      "pills": [
+        {"at": 0.6, "text": "Waybill number given", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0.6,
+      "dur": 4.6,
+      "head": "And they <g>track it</g> themselves",
+      "pills": [
+        {"at": 2.4, "text": "Status: in transit", "icon": "●", "y": 1300}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Price it. Book it. Track it. 📦\n\nThis is what a customer sees on a demo courier website we built:\n🗺️ A route map the moment they land\n💲 Pick the parishes and get an itemised price\n📝 Book the shipment and get a waybill number\n📍 Track the parcel without calling anyone\n\nImagine this for your business.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#courierbusiness", "#smallbusinessjamaica", "#aitkentechnology"]
+}

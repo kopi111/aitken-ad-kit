@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-10",
+  "project": "summer-splash",
+  "angle": "one-feature spotlight: the free-quote form as the part of the business that stays open after closing time (quote-form-phone only, explained field by field)",
+  "title": "Summer Splash free-quote form spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Shop close.<br><g>Website nuh close.</g><small>One small feature, working all night</small>"
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.4,
+      "enter": "rise",
+      "head": "Customer ready at night? <g>Form is open</g>",
+      "pills": [
+        {"at": 1.0, "text": "Free-quote form", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 2.4,
+      "dur": 2.2,
+      "head": "Who they are, <g>how to reach them</g>",
+      "pills": [
+        {"at": 0.6, "text": "Name, email, phone", "icon": "@", "y": 1390}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 4.6,
+      "dur": 2.9,
+      "head": "What they need, <g>in their words</g>",
+      "pills": [
+        {"at": 1.0, "text": "Service and message", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Wake up to<br><g>quote requests</g><small>Name, number and the job in one place</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "We built this for<br>a <g>pool company</g><small>Your business could be next</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Shop close. Website nuh close. 🌙\n\nA free-quote form lets a customer tell you who they are, how to reach them and what they need, even after you've locked up. This is on a mobile-first website we built for a pool company.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}

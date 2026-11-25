@@ -1,0 +1,71 @@
+{
+  "id": "2026-11-05",
+  "project": "money-path",
+  "angle": "\"what a customer sees\" walkthrough of an app: unlock → what's left → log a spend → goals → reports",
+  "title": "Money Path screen-by-screen walkthrough ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Tap the icon.<br><g>Then what?</g><small>Screen by screen, an app we built</small>"
+    },
+    {
+      "clip": "money-path/lock-unlock",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.5,
+      "enter": "rise",
+      "head": "First screen: <g>PIN lock</g>",
+      "pills": [
+        {"at": 1.2, "text": "Fingerprint optional", "icon": "●", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.5,
+      "head": "Next: <g>what's left</g> this month",
+      "pills": [
+        {"at": 0.8, "text": "Overspend alerts", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.5,
+      "head": "Add a spend, <g>budget updates</g>",
+      "pills": [
+        {"at": 4.2, "text": "Limit alert, right away", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/goals-scroll",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 3.5,
+      "head": "Goals say <g>on track</g> or behind",
+      "pills": [
+        {"at": 2.4, "text": "Car fund: on track", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/reports-scroll",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 3.0,
+      "head": "Then <g>compare</g> to last month",
+      "pills": [
+        {"at": 1.6, "text": "Spending by category", "icon": "✓", "y": 1300}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Want an app like this?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Tap the icon. Then what? 📱\n\nThis is what someone sees inside Money Path, a budgeting app we built:\n🔒 PIN lock, fingerprint optional\n💰 What's left this month, with overspend alerts\n✍️ Add a spend and the budget updates\n🎯 Savings goals marked on track or behind\n📊 Reports compared to last month\n\nWebsites · Web apps · Mobile apps\nWant an app like this? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

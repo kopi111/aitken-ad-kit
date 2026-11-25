@@ -1,0 +1,68 @@
+{
+  "id": "2026-11-12",
+  "project": "money-path",
+  "angle": "myth-buster: \"apps are only for big companies\" → a full Android app we built (PIN lock, spend tracking with alerts, savings goals, works offline and encrypted)",
+  "title": "Money Path myth-buster ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Myth:</g><br>apps are only<br>for big companies<small>Small business? Watch this</small>"
+    },
+    {
+      "clip": "money-path/lock-unlock",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.7,
+      "enter": "rise",
+      "head": "A real Android app <g>we built</g>",
+      "pills": [
+        {"at": 1.2, "text": "PIN lock, fingerprint too", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 5.5,
+      "head": "Log a spend, <g>see what's left</g>",
+      "pills": [
+        {"at": 4.2, "text": "Alerts at the limit", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/goals-scroll",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 4.6,
+      "head": "Savings goals that <g>keep score</g>",
+      "pills": [
+        {"at": 2.6, "text": "On track or behind", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/today-static",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.3,
+      "dim": true,
+      "head": "Works with <g>no internet</g>",
+      "pills": [
+        {"at": 0.3, "text": "Nothing leaves the phone", "icon": "✓", "y": 1100},
+        {"at": 0.9, "text": "Encrypted on the phone", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Truth:</g><br>your business<br>can too<small>Your idea, built for your customers</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "Myth: apps are only for big companies 🙅🏾\n\nMoney Path is an Android app we built:\n🔒 PIN lock, fingerprint too\n✍️ Log a spend and see what's left\n🎯 Savings goals that show on track or behind\n📵 Works with no internet, encrypted on the phone\n\nTruth: your business can have one too.\n\nWebsites · Web apps · Mobile apps\nGot an idea? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

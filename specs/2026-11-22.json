@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-22",
+  "project": "summer-splash",
+  "angle": "one-feature spotlight: the services page on the pool company site, explained (services-scroll-phone only): commercial/residential tabs → each service with what's included → photos for every service; customers see everything you do before they call",
+  "title": "Summer Splash services page spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Dem only know<br><g>half</g> of what you do?<small>One page that fixes that</small>"
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 1.8,
+      "enter": "rise",
+      "head": "Every service, <g>one page</g>",
+      "pills": [
+        {"at": 0.6, "text": "Commercial or Residential", "icon": "●", "y": 1300},
+        {"at": 1.1, "text": "Pool company site we built", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 1.8,
+      "dur": 1.8,
+      "head": "Each one <g>explained</g>",
+      "pills": [
+        {"at": 0.5, "text": "What's included, listed", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 3.6,
+      "dur": 2.2,
+      "head": "<g>Photos</g> for every service",
+      "pills": [
+        {"at": 0.6, "text": "Easy to read on a phone", "icon": "●", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "No more<br>\"<g>Yuh do that too?</g>\"<small>Customers see it all before they call</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "A pool company site<br><g>we built</g><small>Imagine this for your business</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1, 4],
+  "caption": "Dem only know half of what you do? 🤔\n\nOn the services page of a pool company website we built:\n🗂️ Commercial or Residential, one tap\n✅ Every service with what's included\n📸 Photos for each one, easy to read on a phone\n\nNo more \"yuh do that too?\" Customers see it all before they call.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#caribbeanbusiness", "#aitkentechnology"]
+}

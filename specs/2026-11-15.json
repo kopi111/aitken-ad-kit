@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-15",
+  "project": "aitken-shipping",
+  "angle": "before/after in words: answering the same price question by hand in every DM → a courier site that gives the customer an itemised price and lets them book",
+  "title": "Aitken Shipping price-question before/after ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "\"Boss, how much<br>fi <g>send it?</g>\"<small>Heard that one already today?</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "<g>Before:</g><br>same question, every DM<small>And you work out the price by hand each time</small>"
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 0.6,
+      "dur": 3.4,
+      "enter": "rise",
+      "head": "<g>After:</g> they price it themselves",
+      "pills": [
+        {"at": 1.0, "text": "Kingston → Saint James", "icon": "●", "y": 1300},
+        {"at": 2.0, "text": "Demo site we built", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 4.0,
+      "dur": 3.9,
+      "head": "Full total, <g>no waiting</g>",
+      "pills": [
+        {"at": 3.0, "text": "Every charge listed", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 5.3,
+      "dur": 2.0,
+      "head": "Then they <g>book it</g>",
+      "pills": [
+        {"at": 0.6, "text": "Waybill number given", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Imagine this for<br><g>your</g> business<small>Less typing prices. More time to work</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Tired of the price DMs?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "\"Boss, how much fi send it?\" 📦\n\nBefore: the same price question in every DM, and you work it out by hand each time.\n\nAfter: a courier website (a demo site we built) where the customer:\n📍 Picks the parishes\n💲 Gets the full total with every charge listed\n📝 Books it and gets a waybill number\n\nImagine this for your business.\n\nWebsites · Web apps · Mobile apps\nTired of the price DMs? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#courierbusiness", "#smallbusinessjamaica", "#aitkentechnology"]
+}

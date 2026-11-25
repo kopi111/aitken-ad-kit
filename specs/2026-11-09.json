@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-09",
+  "project": "aitken-shipping",
+  "angle": "one-feature spotlight: parcel tracking on the demo courier site, explained step by step (track-parcel-phone only): waybill number → status → journey log",
+  "title": "Aitken Shipping parcel tracking spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Where mi<br><g>parcel</g> deh?<small>One feature that answers for you</small>"
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.7,
+      "enter": "rise",
+      "head": "Customer types the <g>waybill number</g>",
+      "pills": [
+        {"at": 1.2, "text": "Demo site we built", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 2.6,
+      "dur": 1.8,
+      "head": "Status shows <g>straight away</g>",
+      "pills": [
+        {"at": 0.7, "text": "Route and delivery date", "icon": "●", "y": 800}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 3.5,
+      "dur": 1.9,
+      "head": "Every stop,<br><g>with the time</g>",
+      "pills": [
+        {"at": 0.7, "text": "Booked. Picked up. In transit.", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.6,
+      "head": "They check it<br><g>no call needed</g><small>Day or night, from their phone</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "A courier site<br><g>we built</g><small>A demo. Imagine this for your business</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1, 2, 3],
+  "caption": "Where mi parcel deh? 📦\n\nOn this demo courier website we built, a customer types in a waybill number and sees the status, the route, the estimated delivery date and every stop along the way, without picking up the phone.\n\nImagine this for your business.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#courierbusiness", "#smallbusinessjamaica", "#aitkentechnology"]
+}

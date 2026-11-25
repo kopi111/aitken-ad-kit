@@ -1,0 +1,9 @@
+Stop a rendered ad from getting stuck when the run dies before delivery
+[x] daily.sh: if the video already exists, skip making it but still copy it to the Marketing folder
+[x] Deliver the Nov 5 ad and add its row to ads-log.md
+[x] Make the Nov 6 ad again
+
+Longer ads that show more of the app
+[x] render.py: raise the length limit to 60 seconds
+[x] Render a full-tour Money Path sample and show kopi
+[ ] If kopi likes the length: update daily-prompt.md and README.md, redo the other ads

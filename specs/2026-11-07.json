@@ -1,0 +1,68 @@
+{
+  "id": "2026-11-07",
+  "project": "aitken-shipping",
+  "angle": "portfolio showcase: a demo courier website we built, shown for its look and what it does (route map, itemised quote, tracking, booking, laptop view)",
+  "title": "Aitken Shipping demo site portfolio showcase ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Who seh a courier site<br>haffi look <g>boring?</g><small>A demo site we built</small>"
+    },
+    {
+      "clip": "aitken-shipping/home-hero-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.0,
+      "enter": "rise",
+      "head": "An <g>animated route map</g> up front",
+      "pills": [
+        {"at": 1.0, "text": "Demo site we built", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/instant-quote-phone",
+      "device": "phone",
+      "from": 3.6,
+      "dur": 4.4,
+      "head": "Fill it in, get an <g>itemised quote</g>",
+      "pills": [
+        {"at": 3.2, "text": "Every charge shown", "icon": "✓", "y": 850}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/track-parcel-phone",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 4.6,
+      "head": "Track it <g>step by step</g>",
+      "pills": [
+        {"at": 2.3, "text": "In transit", "icon": "●", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 3.5,
+      "dur": 3.9,
+      "head": "Book it, get a <g>waybill</g>",
+      "pills": [
+        {"at": 2.2, "text": "Booking confirmed", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/home-hero-desktop",
+      "device": "laptop",
+      "from": 0,
+      "dur": 3.0,
+      "head": "Same site, <g>on a laptop</g>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Want a site like this?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Who seh a courier site haffi look boring? 📦\n\nThis is a demo courier website we built to show what a site like this can do:\n🗺️ Animated route map up front\n🧾 Itemised quotes\n📍 Parcel tracking, step by step\n✅ Booking with a waybill number\n💻 Looks right on phone and laptop\n\nImagine this for your business.\n\nWebsites · Web apps · Mobile apps\nWant a site like this? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesign", "#courierbusiness", "#smallbusinessjamaica", "#aitkentechnology"]
+}

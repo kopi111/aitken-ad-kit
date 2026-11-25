@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-19",
+  "project": "aitken-shipping",
+  "angle": "one-feature spotlight: online booking on the demo courier site, explained step by step (book-shipment-phone only): sender and recipient → parishes and weight → booking confirmed with a waybill number",
+  "title": "Aitken Shipping online booking spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Still writing<br><g>waybills</g> by hand?<small>One feature that does it for you</small>"
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.6,
+      "enter": "rise",
+      "head": "Customer fills in <g>who it's for</g>",
+      "pills": [
+        {"at": 1.0, "text": "Sender and recipient", "icon": "●", "y": 1300},
+        {"at": 1.6, "text": "Demo site we built", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 2.5,
+      "dur": 1.4,
+      "head": "Picks the parish,<br>adds the <g>weight</g>",
+      "pills": [
+        {"at": 0.6, "text": "Right from their phone", "icon": "●", "y": 1480}
+      ]
+    },
+    {
+      "clip": "aitken-shipping/book-shipment-phone",
+      "device": "phone",
+      "from": 5.3,
+      "dur": 2.1,
+      "head": "<g>Booking confirmed</g>",
+      "pills": [
+        {"at": 0.6, "text": "Waybill number given", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "The waybill<br><g>comes ready</g><small>Nothing to write out by hand</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "A courier site<br><g>we built</g><small>A demo. Imagine this for your business</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1, 3],
+  "caption": "Still writing waybills by hand? 📦\n\nOn this demo courier website we built, the customer books the shipment themselves:\n📝 Sender and recipient\n📍 Parishes and weight\n✅ Booking confirmed, with a waybill number ready\n\nImagine this for your business.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#courierbusiness", "#smallbusinessjamaica", "#aitkentechnology"]
+}

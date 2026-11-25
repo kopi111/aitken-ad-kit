@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-18",
+  "project": "money-path",
+  "angle": "one-feature spotlight: logging a spend in Money Path (log-spending only, explained step by step): open the sheet → type the amount → pick a category → what's left updates and a limit alert shows",
+  "title": "Money Path log-a-spend spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Where di money<br><g>run go?</g><small>One feature that keeps track for you</small>"
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.5,
+      "enter": "rise",
+      "head": "Spend some money?<br><g>Log it</g> right away",
+      "pills": [
+        {"at": 1.2, "text": "Typing $1,500", "icon": "$", "y": 1480}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 2.5,
+      "dur": 1.5,
+      "head": "Pick what it was <g>for</g>",
+      "pills": [
+        {"at": 0.9, "text": "Eating out", "icon": "✓", "y": 1480}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 4.0,
+      "dur": 2.0,
+      "dim": true,
+      "head": "What's left <g>updates</g> itself",
+      "pills": [
+        {"at": 0.5, "text": "Left: $37,210", "icon": "$", "y": 800},
+        {"at": 1.1, "text": "Limit reached alert", "icon": "!", "y": 1480}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.6,
+      "head": "No sums by hand.<br><g>No surprises</g><small>It warns you when a limit is hit</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "An Android app<br><g>we built</g><small>Your app idea could be next</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an app idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1, 3],
+  "caption": "Where di money run go? 💸\n\nMoney Path is a budgeting app we built. Log a spend, pick what it was for, and what's left for the month updates by itself. Go over a category limit and it tells you.\n\nWebsites · Web apps · Mobile apps\nGot an app idea? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

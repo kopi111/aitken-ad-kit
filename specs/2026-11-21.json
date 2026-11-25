@@ -1,0 +1,66 @@
+{
+  "id": "2026-11-21",
+  "project": "money-path",
+  "angle": "problem → fix: you only find out you overspent when the money done → an Android app we built that warns you first (limit alerts, limit-reached on a new spend, month-end summary, compare to last month)",
+  "title": "Money Path problem → fix ad (overspend alerts)",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Overspend and<br><g>nobody tell yuh?</g><small>You find out when the money done</small>"
+    },
+    {
+      "clip": "money-path/today-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 2.5,
+      "enter": "rise",
+      "head": "The app <g>warns you first</g>",
+      "pills": [
+        {"at": 0.8, "text": "Limit alerts up top", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/log-spending",
+      "device": "phone",
+      "from": 0.8,
+      "dur": 4.8,
+      "head": "Log a spend, <g>see it land</g>",
+      "pills": [
+        {"at": 3.4, "text": "Limit reached: Eating out", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/month-view",
+      "device": "phone",
+      "from": 0,
+      "dur": 3.0,
+      "head": "Month end, <g>no surprises</g>",
+      "pills": [
+        {"at": 0.8, "text": "In, spent, saved, left", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/reports-scroll",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Better or worse <g>than last month?</g>",
+      "pills": [
+        {"at": 1.8, "text": "Against last month", "icon": "↕", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Got a problem<br>like this? <g>We build the fix.</g><small>An Android app we built</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an app idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "Overspend and nobody tell yuh? 😩\n\nMost people only find out when the money done. So we built an app that warns you first:\n⚠️ Limit alerts as soon as you open it\n📝 Log a spend and see what's left update\n📅 A month-end summary, no surprises\n📊 Reports against last month\n\nGot a problem like this in your business? We build the fix.\n\nWebsites · Web apps · Mobile apps\nComment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#smallbusinessjamaica", "#caribbeanbusiness", "#aitkentechnology"]
+}

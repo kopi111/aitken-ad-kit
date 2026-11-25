@@ -9,6 +9,8 @@ Makes TikTok ads (1080×1920, 30 fps, silent) for Aitken Technology from real sc
   `<id>-caption.txt`, plus `out/<id>-preview.png` (one frame every 2 s)
 - `daily.sh [YYYY-MM-DD]` — the 6 AM job: Claude writes that day's script, renders it, and the files
   are copied to `~/Desktop/ready to deploy/Marketing/<date>/`. Skips a date that already has a script.
+- `catch-up.sh` — what cron runs, every hour from 6 AM to 11 PM. Calls `daily.sh` for today, one run at
+  a time and at most 3 tries a day, so an ad missed at 6 AM is made once the laptop is back on.
 - `ads-log.md` — every ad made so far (project, angle, hook). The daily job reads it to avoid repeats.
 
 Money Path clips were recorded on the Android emulator (`signal_test` AVD, demo data); see the

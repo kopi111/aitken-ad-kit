@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-13",
+  "project": "summer-splash",
+  "angle": "behind-the-build: mobile-first — the pool company site was built for the phone first (thumb-size services, reviews, a quote form easy to fill on a phone), then shown still sharp on a laptop",
+  "title": "Summer Splash mobile-first build ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Open your website<br>on your <g>phone</g><small>Go on. How it look?</small>"
+    },
+    {
+      "clip": "summer-splash/home-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.5,
+      "enter": "rise",
+      "head": "We build for the <g>phone first</g>",
+      "pills": [
+        {"at": 1.2, "text": "Mobile-first build", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0.3,
+      "dur": 3.5,
+      "head": "Services that <g>fit the screen</g>",
+      "pills": [
+        {"at": 1.0, "text": "No pinch, no zoom", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 4.0,
+      "head": "A quote form <g>easy on a thumb</g>",
+      "pills": [
+        {"at": 1.5, "text": "Free-quote request", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/home-scroll-desktop",
+      "device": "laptop",
+      "from": 0,
+      "dur": 4.0,
+      "head": "Still sharp <g>on a laptop</g>",
+      "pills": [
+        {"at": 1.2, "text": "Site we built for a pool company", "icon": "★", "y": 1390}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 1],
+  "caption": "Open your website on your phone. How it look? 📱\n\nThis is a website we built for a pool company, and we built it for the phone first:\n✅ Services that fit the screen, no pinching or zooming\n✅ A free-quote form that's easy to fill with one thumb\n✅ Still sharp on a laptop\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#mobilefirst", "#caribbeanbusiness", "#aitkentechnology"]
+}

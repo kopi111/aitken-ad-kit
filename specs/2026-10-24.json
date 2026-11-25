@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-24",
+  "project": "money-path",
+  "angle": "one-feature spotlight: savings goals that show behind / on track (goals-scroll only, explained)",
+  "title": "Money Path savings goals spotlight ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Saving for <g>Christmas?</g><small>Know if you're on track</small>"
+    },
+    {
+      "clip": "money-path/goals-scroll",
+      "device": "phone",
+      "from": 0,
+      "dur": 1.9,
+      "enter": "rise",
+      "head": "Falling short? It says <g>Behind</g>",
+      "pills": [
+        {"at": 0.6, "text": "Christmas: Behind", "icon": "!", "y": 1300}
+      ]
+    },
+    {
+      "clip": "money-path/goals-scroll",
+      "device": "phone",
+      "from": 1.9,
+      "dur": 3.7,
+      "head": "Keeping up? It says <g>On track</g>",
+      "pills": [
+        {"at": 1.4, "text": "Car fund: On track", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "One look shows<br>every <g>goal</g><small>Christmas, school fees, a car</small>"
+    },
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "We built<br><g>Money Path</g><small>Your app idea could be next</small>"
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Got an app idea?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 2],
+  "caption": "Saving for Christmas? Know if you're on track 🎄\n\nMoney Path is a budgeting app we built. Every savings goal shows if you're Behind or On track, so one look tells you where you stand.\n\nWebsites · Web apps · Mobile apps\nGot an app idea? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#appdevelopment", "#mobileapp", "#smallbusinessjamaica", "#aitkentechnology"]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-17",
+  "project": "summer-splash",
+  "angle": "3 signs your business needs a website, told as the 3 questions customers keep asking (what you do? anybody vouch for you? how I get a price?) → services page, reviews page, free-quote form on the pool company site we built",
+  "title": "Summer Splash 3 customer questions ad",
+  "segments": [
+    {
+      "kind": "text",
+      "dur": 2.5,
+      "head": "Customers keep asking<br>these <g>3 questions?</g><small>That's a sign you need a website</small>"
+    },
+    {
+      "clip": "summer-splash/services-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.5,
+      "enter": "rise",
+      "head": "1. <g>\"What you do?\"</g>",
+      "pills": [
+        {"at": 1.2, "text": "Every service, with photos", "icon": "✓", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/testimonials-scroll-phone",
+      "device": "phone",
+      "from": 0,
+      "dur": 4.5,
+      "head": "2. <g>\"Anybody vouch for you?\"</g>",
+      "pills": [
+        {"at": 1.2, "text": "Reviews right on the page", "icon": "★", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/quote-form-phone",
+      "device": "phone",
+      "from": 0.5,
+      "dur": 5.0,
+      "head": "3. <g>\"How I get a price?\"</g>",
+      "pills": [
+        {"at": 1.5, "text": "Free-quote request form", "icon": "$", "y": 1300}
+      ]
+    },
+    {
+      "clip": "summer-splash/home-scroll-desktop",
+      "device": "laptop",
+      "from": 0,
+      "dur": 3.5,
+      "head": "Answered <g>before they call</g>",
+      "pills": [
+        {"at": 1.0, "text": "Site we built for a pool company", "icon": "✓", "y": 1390}
+      ]
+    }
+  ],
+  "end": {
+    "dur": 4.0,
+    "cta": "Run a business?<br>Comment <g>WEBSITE</g><br>and we'll DM you"
+  },
+  "short": [0, 3],
+  "caption": "Customers keep asking these 3 questions? That's a sign you need a website 👇\n1. \"What you do?\" → a services page with photos\n2. \"Anybody vouch for you?\" → reviews right on the page\n3. \"How I get a price?\" → a free-quote request form\n\nThis is a website we built for a pool company. It answers all three before the customer even calls.\n\nWebsites · Web apps · Mobile apps\nRun a business? Comment WEBSITE and we'll DM you 👇",
+  "hashtags": ["#jamaica", "#jamaicabusiness", "#webdesignjamaica", "#smallbusinessjamaica", "#websitedesign", "#caribbeanbusiness", "#aitkentechnology"]
+}
